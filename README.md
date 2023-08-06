@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @developedbyjk
-- 👀 I’m interested in developing new things
-- 🌱 I’m currently learning JS & REACT
-- 💞️ I’m looking to collaborate on Projects
+- 👋 Hi, I’m jk
+- 👀 I’m interested in designing & developing Web
+- 🌱 I’m currently learning Advance JS & React 
+- 💞️ I’m looking to collaborate Awesome Projects 
 
 
