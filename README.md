@@ -1,6 +1,7 @@
 
 
-![hello](https://github.com/developedbyjk/developedbyjk/assets/71823598/ffb43ddd-80bd-4d53-afc0-c73fb508fd91)
+![Untitled (72 x 18 in)](https://github.com/developedbyjk/developedbyjk/assets/71823598/07ca474b-bd5f-410e-87b3-d2cf57f0385c)
+
 
 
 ## 👨‍💻 Juned Khan
