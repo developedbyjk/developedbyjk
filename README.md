@@ -1,10 +1,10 @@
+
+![Untitled design (22)](https://github.com/developedbyjk/developedbyjk/assets/71823598/cd25cd70-ffec-483b-a0eb-c43461140b90)
+
+
 ## 👨‍💻 Juned Khan
 **`Frontend Developer`**
-<br/>
-<br/>
-![](https://komarev.com/ghpvc/?username=developedbyjk&color=brightgreen&style=flat-square&label=++👀++)
-<br/>
-<br/>
+
 👋 Hey, I'm Juned Khan 🙋‍♂️ also developedbyjk🤓 coz it sound cool😎😂 – A Frontend Dev 👨‍💻 loves to turn brain🧠 signal into digital pixels📊 by using my Special power💪 like JavaScript and React ⚛ !My mission?🚀👨‍🚀 Making Awesome 😍 and Helpful🤝 things on Web🌎.  When not coding, You catch me Designing🎨, diving into books📚, or scoring goals on the football field⚽. Entrepreneurship🤵 is my secret sauce; Github😸 to me, is more than code 💖; it's a space to make friends👥, share ideas💡, and build new things🔮. Let's code, innovate, and create together! 🚀✨
 
 ---
@@ -23,11 +23,19 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developedbyjk&layout=compact)
 
-<br/>
-<br/>
+
+## 📊 Stats
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=developedbyjk&color=brightgreen&style=flat-square&label=++👀++)
+
+![developedbyjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbyjk&hide=contribs&show_icons=true&theme=shadow_green)
+
+#
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science
+
 
