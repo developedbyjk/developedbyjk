@@ -1,6 +1,6 @@
-- 👋 Hi, I’m jk
-- 👀 I’m interested in designing & developing Web
-- 🌱 I’m currently learning Advance JS & React 
-- 💞️ I’m looking to collaborate Awesome Projects 
-
+## 👨‍💻 Juned Khan
+**`Frontend Developer`**
+<br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=developedbyjk&color=brightgreen&style=flat-square&label=++👀++)
 
