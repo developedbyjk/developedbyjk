@@ -15,11 +15,10 @@
 [![Static Badge](https://img.shields.io/badge/-linktree-black?logo=linktree&label=All%20Links%20on&labelColor=black)](https://linktr.ee/developedbyjk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 -->
-
-
 ---
+<br/>
 
-### Languages and Tools:
+## 💼 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -36,10 +35,7 @@
 
 
 ## 📊 Stats
-<br/>
 
-![developedbyjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbyjk&hide=contribs&show_icons=true&theme=shadow_green)
-![developedbyjk's GitHub  Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developedbyjk&layout=compact)
 
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=developedbyjk&show_icons=true&theme=shadow_green&hide=contribs" />
@@ -55,10 +51,11 @@
 
 -->
 
+<br/>
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mastooraturkmen)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=developedbyjk)](https://git.io/streak-stats)
 #
 
 ## 😁 Meme
