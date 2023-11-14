@@ -63,7 +63,7 @@
 
 ## 😁 Meme
 
-<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+<img alt="Random Memes" height="250px" style="border: 2px solid #000000;" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science
