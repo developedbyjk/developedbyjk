@@ -65,7 +65,19 @@
 
 <img alt="Random Memes" height="250px" style="border: 2px solid #000000;" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  updating soon...
+ <summary><h3>👨‍💻 A Bit More Intro 😉✨🥂</h3></summary>
+  👋 Greetings, fellow code aficionados! I'm Juned Khan, a frontend sorcerer conjuring digital wonders with the magical duo of JavaScript and React. My quest? To weave the web with awesome creations that not only dazzle the eyes but serve a practical purpose for users.
+
+💻 JavaScript is not just a language for me; it's the rhythm of my code and the melody of innovation. The frontend is my canvas, and I paint user-friendly masterpieces that resonate with utility.
+
+🎨 Beyond the realms of coding, I don a different hat—or should I say, grab a stylus? Graphic design, drawing, and the occasional literary journey are my off-screen pursuits. When not immersed in pixels, you might catch me chasing a football on the field or immersed in the pages of a good book.
+
+🚀 Project crafting is my forte, and each creation holds a piece of my coding heart. I'm not just content with past triumphs; I'm on a perpetual mission to birth more awesome projects that make a difference in people's digital lives.
+
+💼 In a unique twist, I blend my love for coding with entrepreneurship. Business meetings are my jam—connecting with like-minded visionaries, swapping ideas, and considering coding not just a skill but a passionate endeavor.
+
+⏰ Coding is not just a 9-to-5 for me; it's a round-the-clock affair. Even in my free time, you'll find me tinkering with code, chasing the elusive bug, and reveling in the pride of a successful hunt.
+
+🌐 GitHub, for me, is more than a repository of code; it's a hub for building friendships, sharing innovative ideas, and collaboratively constructing the next wave of awesome things. Join me on this coding odyssey, and let's create, innovate, and build fantastic digital realms together! 🚀✨
 
 
