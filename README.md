@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=developedbyjk&color=brightgreen&style=flat-square&label=++👀++)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-white?logo=x&labelColor=black)](https://twitter.com/developedbyjk) 
 [![Static Badge](https://img.shields.io/badge/linktree-black?logo=linktree)](https://linktr.ee/developedbyjk)
-[![Static Badge](https://img.shields.io/badge/linktree-blue?logo=linkedin)](https://www.linkedin.com/in/developedbyjk/)
+[![Static Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/developedbyjk/)
 
 <!--
 [![Static Badge](https://img.shields.io/badge/-linktree-black?logo=linktree&label=All%20Links%20on&labelColor=black)](https://linktr.ee/developedbyjk)
