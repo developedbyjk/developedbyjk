@@ -15,6 +15,7 @@
 [![Static Badge](https://img.shields.io/badge/linktree-black?logo=linktree)](https://linktr.ee/developedbyjk)
 [![Static Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/developedbyjk/)
 
+
 <!--
 [![Static Badge](https://img.shields.io/badge/-linktree-black?logo=linktree&label=All%20Links%20on&labelColor=black)](https://linktr.ee/developedbyjk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
@@ -31,6 +32,9 @@
 <img align="left" alt="React"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+          
+
 
 <br/>
 <br/>
