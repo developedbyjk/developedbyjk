@@ -8,6 +8,7 @@
 
 👋 Hey, I'm Juned Khan 🙋‍♂️ also developedbyjk🤓 coz it sound cool😎😂 – A Frontend Dev 👨‍💻 loves to turn brain🧠 signal into digital pixels📊 by using my Special power💪 like JavaScript and React ⚛ !My mission?🚀👨‍🚀 Making Awesome 😍 and Helpful🤝 things on Web🌎.  When not coding, You catch me Designing🎨, diving into books📚, or scoring goals on the football field⚽. Entrepreneurship🤵 is my secret sauce; Github😸 to me, is more than code 💖; it's a space to make friends👥, share ideas💡, and build new things🔮. Let's code, innovate, and create together! 🚀✨
 
+
 ![](https://komarev.com/ghpvc/?username=developedbyjk&color=brightgreen&style=flat-square&label=++👀++)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-white?logo=x&labelColor=black)](https://twitter.com/developedbyjk) 
 [![Static Badge](https://img.shields.io/badge/linktree-black?logo=linktree)](https://linktr.ee/developedbyjk)
